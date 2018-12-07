@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body><h1>±Ã¸®</h1>
+	<img src="https://www.instagram.com/p/BqtyQ64HoZt/?utm_source=ig_web_button_share_sheet" />
+		<p>I AM A THINKER.</p>
+		<p>I live for a year and die.</p>
+		<p>I'm thinking about how to live.</p>
+	</body>
+</html>
